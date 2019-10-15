@@ -3,3 +3,5 @@ Project for Principles of Data Mining analyzing the traffic collisions that occu
 
 The data that was used for this project can be located publicly at :
 https://data.cityofnewyork.us/Public-Safety/NYPD-Motor-Vehicle-Collisions-Crashes/h9gi-nx95
+
+Included is a writeup of the project in pdf format.
